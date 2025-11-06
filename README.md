@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGVjOWl2NnN4MGt1N2NvMXZ0MzYzanJtOWdmeHl0d3Y0bXpjZTY5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pUp9Nb1czvHMY/giphy.gif"/>
 </p>
 <h1 align="center">Hi 👋, I'm Misha</h1>
 <h3 align="center">I'm frontend developer from Moscow, and i like vue:)</h3>
