@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Misha</h1>
 <h3 align="center">I'm frontend developer from Moscow, and i like vue:)</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me in telegram: @kurbik72</h3>
 <p align="left">
 </p>
 
