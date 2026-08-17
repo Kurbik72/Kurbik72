@@ -1,12 +1,68 @@
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGVjOWl2NnN4MGt1N2NvMXZ0MzYzanJtOWdmeHl0d3Y0bXpjZTY5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pUp9Nb1czvHMY/giphy.gif"/>
-</p>
-<h1 align="center">Hi 👋, I'm Misha</h1>
-<h3 align="center">I'm frontend developer from Moscow, and i like vue:)</h3>
-
-<h3 align="left">Connect with me in telegram: @kurbik72</h3>
-<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:22c55e&height=220&section=header&text=Hi%20there,%20I'm%20Mike%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Vue.js%20%26%20Nuxt.js%20Enthusiast&descAlignY=55&descSize=18"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Always+Learning+%F0%9F%9A%80;Frontend+Developer;Vue.js+%2B+Nuxt.js+%2B+TypeScript;Building+clean%2C+fast+UIs+%E2%9C%A8" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://t.me/voidsMark"><img src="https://img.shields.io/badge/Telegram-@voidsMark-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/voidsmark"><img src="https://img.shields.io/badge/LinkedIn-@voidsmark-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:voidsxmark@gmail.com"><img src="https://img.shields.io/badge/Email-voidsxmark%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=voidsMark&style=for-the-badge&color=38bdf8&label=Profile+Views"/>
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+I'm a **frontend developer** who mainly works with **Vue.js** and **Nuxt.js**. I care about clean architecture, smooth UX, and building things that scale well.
+
+```yaml
+mike:
+  role: Frontend Developer
+  stack: [Vue.js, Nuxt.js, TypeScript, Pinia]
+  currently_learning: Advanced CI/CD pipelines 🐳
+  based_in: 🌍 exploring the world
+```
+
+---
+
+### 🛠️ Skills & Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vue,nuxtjs,ts,js,docker,pinia,git,github&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Pinia-FFD859?style=flat-square&logo=pinia&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=voidsMark&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=voidsMark&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=voidsMark&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:38bdf8&height=100&section=footer"/>
+</p>
