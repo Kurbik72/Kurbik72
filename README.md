@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:22c55e&height=220&section=header&text=Hi%20there,%20I'm%20Mike%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Vue.js%20%26%20Nuxt.js%20Enthusiast&descAlignY=55&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:22c55e&height=220&section=header&text=Hi%20there,%20I'm%20Mike%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Vue.js%20%2B%20Nuxt.js%20Enthusiast&descAlignY=55&descSize=18"/>
 </p>
 
 <p align="center">
@@ -52,8 +52,8 @@ mike:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kurbik72&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kurbik72&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="./profile/stats.svg"/>
+  <img height="165" src="./profile/top-langs.svg"/>
 </p>
 
 ---
