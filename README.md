@@ -49,15 +49,6 @@ mike:
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="./profile/stats.svg"/>
-  <img height="165" src="./profile/top-langs.svg"/>
-</p>
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,100:38bdf8&height=100&section=footer"/>
 </p>
