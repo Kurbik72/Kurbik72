@@ -7,13 +7,12 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/voidsMark"><img src="https://img.shields.io/badge/Telegram-@voidsMark-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/voidsmark"><img src="https://img.shields.io/badge/LinkedIn-@voidsmark-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:voidsxmark@gmail.com"><img src="https://img.shields.io/badge/Email-voidsxmark%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://t.me/kurbik72"><img src="https://img.shields.io/badge/Telegram-@kurbik72-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="mailto:mikhailkurbik@gmail.com"><img src="https://img.shields.io/badge/Email-mikhailkurbik%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=voidsMark&style=for-the-badge&color=38bdf8&label=Profile+Views"/>
+  <img src="https://komarev.com/ghpvc/?username=kurbik72&style=for-the-badge&color=38bdf8&label=Profile+Views"/>
 </p>
 
 ---
@@ -53,12 +52,12 @@ mike:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=voidsMark&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=voidsMark&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kurbik72&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurbik72&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=voidsMark&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=kurbik72&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
