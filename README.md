@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:22c55e&height=220&section=header&text=Hi%20there,%20I'm%20Mike%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Vue.js%20%2B%20Nuxt.js%20Enthusiast&descAlignY=55&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:22c55e&height=220&section=header&text=Hi%20there,%20I'm%20Mike%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%Engineer%20%7C%20Vue.js%20%2B%20Nuxt.js%20Enthusiast&descAlignY=55&descSize=18"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Always+Learning+%F0%9F%9A%80;Frontend+Developer;Vue.js+%2B+Nuxt.js+%2B+TypeScript;Building+clean%2C+fast+UIs+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Always+Learning+%F0%9F%9A%80;Frontend+Engineer;Vue.js+%2B+Nuxt.js+%2B+TypeScript;Building+clean%2C+fast+UIs+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -19,11 +19,11 @@
 
 ### 👨‍💻 About Me
 
-I'm a **frontend developer** who mainly works with **Vue.js** and **Nuxt.js**. I care about clean architecture, smooth UX, and building things that scale well.
+I'm a **frontend engineer** who mainly works with **Vue.js** and **Nuxt.js**. I care about clean architecture, smooth UX, and building things that scale well.
 
 ```yaml
 mike:
-  role: Frontend Developer
+  role: Frontend Engineer
   stack: [Vue.js, Nuxt.js, TypeScript, Pinia]
   currently_learning: Advanced CI/CD pipelines 🐳
   based_in: 🌍 exploring the world
